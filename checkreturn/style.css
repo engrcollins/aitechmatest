@@ -1,0 +1,64 @@
+.container{
+	padding-top:20px;
+}
+
+.main{
+	width: 690px;
+	height: 350px;
+	text-align: center;
+	margin: 35px auto;
+	border:2px solid;
+	background-color: #ffffe2;
+	border-radius:14px;
+	padding:10px;
+}
+
+.back{
+	text-align: center;
+}
+
+h1{
+	margin-top: 1px;
+	color: #3333ff;
+	text-shadow: 4px 4px #e0eceb;
+	
+}
+
+a:hover{
+ font-style: italic;	
+}
+
+table{
+	border-spacing:0 8px;
+}
+
+td{
+  padding: 5px;
+  text-align: left;
+}
+
+.success{
+	font-family: Consolas, Lucida sans;
+	font-size: 18px;
+}
+
+#digit{
+	font-family: Copperplate Gothic Light;
+	font-size:20px;
+	font-weight:bold;
+}
+
+#note{
+	font-family: Gabriola, Perpetua;
+	font-weight: bold;
+	font-size:20px;
+}
+
+footer{
+	position:relative;
+	top: 135px;
+	text-align: center;
+	font-size: 11px;
+}
+
+
